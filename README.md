@@ -1,2 +1,0 @@
-# QuickSitAcademy
-Created with CodeSandbox
